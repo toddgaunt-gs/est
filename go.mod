@@ -13,3 +13,5 @@ require (
 	golang.org/x/sys v0.0.0-20210220050731-9a76102bfb43 // indirect
 	golang.org/x/time v0.0.0-20210220033141-f8bda1e9f3ba
 )
+
+replace github.com/google/go-tpm => github.com/toddgaunt-gs/go-tpm v0.3.2
